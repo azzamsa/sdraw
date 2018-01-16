@@ -16,6 +16,10 @@ CL-USER> (load "sdraw.generic")
 CL-USER> (sdraw:sdraw '(a b c (d e) f))
 ```
 
+<br>
+<p align="center">
+  <img src="https://github.com/azzamsa/sdraw/blob/master/img/sdraw-generic.png">
+</p>
 
 ### sdraw.gui
 
@@ -26,6 +30,10 @@ CL-USER> (load "sdraw.gui")
 CL-USER> (sdraw:sdraw '(a b (c d (e) f)))
 ```
 
+<br>
+<p align="center">
+  <img src="https://github.com/azzamsa/sdraw/blob/master/img/sdraw-gui.png">
+</p>
 
 ## Author
 
